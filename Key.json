@@ -1,1 +1,26 @@
-
+{
+  "app_name": "NEXORA PREMIUM",
+  "keys": [
+    {
+      "key": "NEXORA-001",
+      "device": 11,
+      "duration": 30,
+      "unit": "Day",
+      "status": "active"
+    },
+    {
+      "key": "NEXORA-002",
+      "device": 5,
+      "duration": 1,
+      "unit": "Month",
+      "status": "active"
+    },
+    {
+      "key": "NEXORA-003",
+      "device": 1,
+      "duration": 1,
+      "unit": "Year",
+      "status": "active"
+    }
+  ]
+}
