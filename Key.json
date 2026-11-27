@@ -1,1 +1,11 @@
-
+[
+    {
+        "license_key": "MAVEXON-GYJRV9AR",
+        "status": "active",
+        "device_mode": "limited",
+        "device_ids": [],
+        "duration": "1y",
+        "created_at": "2026-11-27T08:33:21+01:00",
+        "expires_at": "2027-11-27T08:33:21+01:00"
+    }
+]
